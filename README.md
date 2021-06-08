@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Dahui Kim%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Dahui-Kim%20render&fontSize=90)
 
 [![Monu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KimDahui42)](https://github.com/anuraghazra/github-readme-stats)
 <div align=center>
