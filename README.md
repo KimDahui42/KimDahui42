@@ -1,3 +1,4 @@
+<div align="center">
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Dahui-Kim%20&fontSize=90)
 
 <center>
@@ -10,4 +11,4 @@
 ![Solved.ac profile](http://mazassumnida.wtf/api/pastel/generate_badge?boj=kkddiiock)
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&reversal=true&color=gradient&section=footer)
-
+</div>
