@@ -5,7 +5,7 @@
 |:----:|:----:|
 |[![Monu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KimDahui42&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KimDahui42&layout=compact&theme=radical&exclude_repo=KimDahui42.github.io&count_private=true)](https://github.com/anuraghazra/github-readme-stats)|
 |Solved.ac|
-|[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kkddiiock)](https://solved.ac/kkddiiock)|
+|[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kkddiiock)](https://solved.ac/profile/kkddiiock)|
 
 
 
