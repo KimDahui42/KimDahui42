@@ -1,9 +1,13 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Dahui-Kim%20&fontSize=90)
 ## 🥊 About
-빠르게 익히고 적용하는 백엔드 개발자 김다희입니다.
+### 빠르게 익히고 적용하는 백엔드 개발자 김다희입니다.
 - 넘치는 호기심과 도전 정신으로 새로운 기술을 빠르게 배우고, 도입합니다.
 - 제한된 조건에서 최적의 성능을 제공할 수 있는 시스템을 설계 및 구현하기 위한 방법을 고민합니다.
 - 고민하고 학습한 내용을 공유하고 팀과 함께 성장할 수 있는 방법을 모색합니다.
+
+### Resume & Portfolio
+- [이력서](이력서.pdf)
+- [포트폴리오](포트폴리오.pdf)
 
 ## 🛠️ Skills
 - **Language** 　![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffffff)
@@ -20,9 +24,9 @@
 |경토리 - AR 기반 경주 문화재 카드 수집 서비스|5인 팀 구성(BE: 2, FE: 3)|삼성 청년 SW 아카데미|2024.01 ~ 2024.02|인프라, BE(JWT로그인, 소켓 통신 API 개발)|[Github](https://github.com/Gyeongtori/gyeong-tori)||
 
 ## ⏳ Experience
-### 인턴 · 볼트앤너트
-* 바로공장(앱) 유틸리티 서버 개발
-    * 2022.09 ~ 2022.13
+### 인턴
+* 앱 서버 개발
+    * 2022.09 ~ 2022.12
     * FastAPI, Docker, Nginx, PostgreSQL, Django
     * FastAPI 기반 스케줄링 크롤링 서비스, 알림 서비스(핸드폰 본인인증, FCM 알림) 구현
     * Django 기반 JWT 방식의 OAuth2.0 로그인 API 구현
